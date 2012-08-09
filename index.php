@@ -9,10 +9,8 @@
 	date_default_timezone_set('ETC/GMT-7');
 ?>
 	<header>
-		<hgroup>
-    		<h1>Gianino Cole</h1>
-    		<h2>Web Developer (?)</h2>
-  		</hgroup>
+		<div>Gianino Cole</div>
+		<div>Web Developer (?)</div>
 		<nav></nav>
 	</header>
 	<section>
