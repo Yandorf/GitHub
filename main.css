@@ -1,32 +1,46 @@
 body
 {
 	color: white;
+	font-family: verdana;
 }
 header
 {
-	background-color: red;
+	width: 160px;
+	height: auto;
+	background-color: #AAA;
+	border-radius: 15px;
+	padding-left: 15px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 15px;
 }
-hgroup
+header div
 {
-	background-color: blue;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 h1
 {
-	background-color: green;
+	
 }
 h2
 {
-	background-color: yellow;
+	font-style: italic;
 }
 section
 {
-	background-color: gray;
+	background-color: #AAA;
+	border-radius: 10px;
+	padding-left: 15px;
+	padding-top: 1px;
+	padding-bottom: 1px;
 }
 article
 {
-	background-color: purple;
+	
 }
 p
 {
-	background-color: black
+	font-size: 11px;
 }
