@@ -1,0 +1,32 @@
+body
+{
+	color: white;
+}
+header
+{
+	background-color: red;
+}
+hgroup
+{
+	background-color: blue;
+}
+h1
+{
+	background-color: green;
+}
+h2
+{
+	background-color: yellow;
+}
+section
+{
+	background-color: gray;
+}
+article
+{
+	background-color: purple;
+}
+p
+{
+	background-color: black
+}
